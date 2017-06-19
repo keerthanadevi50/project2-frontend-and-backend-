@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<style>
+body {
+  height: 100%;
+  width: 100%;
+}
+
+h5{
+color:white;
+background:transparent;
+}
+
+.blok1 {
+  height: 100%;
+  background-image: url(http://www.magic4walls.com/wp-content/uploads/2015/11/lonely-girl-in-rabbit-costume-walking-on-brick-road-694x417.jpg);
+  background-size: cover; 
+  
+}
+.paragraph{
+background:transparent;
+color:white;
+text-align:justify;
+
+}
+h3
+{
+
+color:white;
+}
+
+</style>
+</head>>
+<body>
+<div class="container-fluid blok1">
+<p class="paragraph" >
+We believe in passion and taking action.
+We believe the smallest things will make a great difference.
+We believe an extraordinary life begins with a fresh perspective.
+Everything on Lifehack aims to get readers refreshing ideas to end the bad thoughts and bad habits. We help individuals end negativity, get things done fast, and achieve their goals.
+
+Everyone only lives once, but if we make it great, once is enough.
+</body>
+</html>

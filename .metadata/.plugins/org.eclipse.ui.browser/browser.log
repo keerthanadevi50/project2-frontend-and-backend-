@@ -1,0 +1,57 @@
+
+Jun 19, 2017 10:35:42.32 NEW SESSION
+Jun 19, 2017 10:35:42.32 [18196:23408:0619/103542.319:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channel.
+Jun 19, 2017 10:35:42.32 [18196:23408:0619/103542.320:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channel.
+Jun 19, 2017 10:35:42.32 [18196:23408:0619/103542.320:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channel.
+Jun 19, 2017 10:35:42.32 [18196:23408:0619/103542.320:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channel.
+Jun 19, 2017 10:35:42.32 [18196:23408:0619/103542.320:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channel.
+Jun 19, 2017 10:52:49.84 [18196:23408:0619/105249.841:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channel.
+Jun 19, 2017 10:52:49.84 [18196:23408:0619/105249.841:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channel.
+Jun 19, 2017 10:52:49.84 [18196:23408:0619/105249.843:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channel.
+Jun 19, 2017 10:52:49.84 [18196:23408:0619/105249.844:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channel.
+Jun 19, 2017 10:52:49.84 [18196:23408:0619/105249.844:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channel.
+Jun 19, 2017 10:52:49.84 [18196:23408:0619/105249.844:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channel.
+Jun 19, 2017 10:56:59.57 [18196:23408:0619/105659.577:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -106
+Jun 19, 2017 10:57:27.07 [18196:23408:0619/105727.072:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -106
+Jun 19, 2017 10:58:19.58 [18196:23408:0619/105819.583:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channel.
+Jun 19, 2017 10:58:19.58 [18196:23408:0619/105819.586:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channel.
+Jun 19, 2017 10:58:19.59 [18196:23408:0619/105819.589:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channel.
+Jun 19, 2017 10:58:19.59 [18196:23408:0619/105819.589:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channel.
+Jun 19, 2017 10:58:19.59 [18196:23408:0619/105819.589:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channel.
+Jun 19, 2017 10:58:19.59 [18196:23408:0619/105819.589:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channel.
+Jun 19, 2017 11:47:33.49 [18196:23408:0619/114733.491:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channel.
+Jun 19, 2017 11:47:33.49 [18196:23408:0619/114733.498:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channel.
+Jun 19, 2017 11:47:33.49 [18196:23408:0619/114733.498:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channel.
+Jun 19, 2017 11:47:33.50 [18196:23408:0619/114733.498:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channel.
+Jun 19, 2017 11:47:33.50 [18196:23408:0619/114733.498:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channel.
+Jun 19, 2017 11:47:33.50 [18196:23408:0619/114733.498:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channel.
+Jun 19, 2017 11:59:29.76 [18196:23408:0619/115929.766:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -106
+Jun 19, 2017 11:59:51.61 [18196:23408:0619/115951.614:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -106
+Jun 19, 2017 12:44:27.72 [18196:23408:0619/124427.722:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -106
+Jun 19, 2017 12:44:36.72 [18196:23408:0619/124436.721:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Jun 19, 2017 12:44:46.16 [18196:23408:0619/124446.164:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -106
+Jun 19, 2017 13:00:02.97 [18196:23408:0619/130002.979:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channel.
+Jun 19, 2017 13:00:02.98 [18196:23408:0619/130002.979:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channel.
+Jun 19, 2017 13:00:02.98 [18196:23408:0619/130002.980:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channel.
+Jun 19, 2017 13:00:02.98 [18196:23408:0619/130002.980:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channel.
+Jun 19, 2017 13:00:02.98 [18196:23408:0619/130002.980:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channel.
+Jun 19, 2017 13:00:02.98 [18196:23408:0619/130002.986:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channel.
+Jun 19, 2017 13:00:08.17 [18196:23408:0619/130008.175:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channel.
+Jun 19, 2017 13:00:08.17 [18196:23408:0619/130008.175:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channel.
+Jun 19, 2017 13:00:08.17 [18196:23408:0619/130008.175:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channel.
+Jun 19, 2017 13:00:08.17 [18196:23408:0619/130008.175:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channel.
+Jun 19, 2017 13:00:08.17 [18196:23408:0619/130008.175:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channel.
+Jun 19, 2017 13:00:08.17 [18196:23408:0619/130008.175:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channel.
+Jun 19, 2017 13:01:04.76 [18196:23408:0619/130104.762:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -106
+Jun 19, 2017 13:01:32.25 [18196:23408:0619/130132.258:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -106
+Jun 19, 2017 13:02:29.84 [18196:23408:0619/130229.846:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -106
+Jun 19, 2017 13:04:27.11 [18196:23408:0619/130427.110:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -106
+Jun 19, 2017 13:07:35.52 [18196:23408:0619/130735.526:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -106
+Jun 19, 2017 13:23:24.62 [18196:23408:0619/132324.621:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -106
+Jun 19, 2017 13:23:45.32 [18196:23408:0619/132345.327:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -106
+Jun 19, 2017 13:44:32.63 [18196:23408:0619/134432.636:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channel.
+Jun 19, 2017 13:44:32.63 [18196:23408:0619/134432.636:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channel.
+Jun 19, 2017 13:44:32.63 [18196:23408:0619/134432.637:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channel.
+Jun 19, 2017 13:44:32.63 [18196:23408:0619/134432.637:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channel.
+Jun 19, 2017 13:44:32.63 [18196:23408:0619/134432.637:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channel.
+Jun 19, 2017 13:44:32.64 [18196:23408:0619/134432.637:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channel.

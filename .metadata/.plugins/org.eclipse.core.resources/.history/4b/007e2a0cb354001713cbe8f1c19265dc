@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<style>
+body {
+  height: 800%;
+  width: 120%;
+}
+
+h5{
+color:white;
+background:transparent;
+}
+
+.blok1 {
+  height: 100%;
+  width:90%
+  background-image: url(http://www.magic4walls.com/wp-content/uploads/2015/11/lonely-girl-in-rabbit-costume-walking-on-brick-road-694x417.jpg);
+  background-size: cover; 
+  
+}
+.paragraph{
+background:transparent;
+color:black;
+text-align:justify;
+
+}
+h3
+{
+
+color:white;
+}
+
+</style>
+</head>
+<body>
+<div class="container-fluid blok1">
+<p class="paragraph" >
+We believe in passion and taking action.We believe the smallest things will make a great difference.We believe an extraordinary life begins with a fresh perspective.Everything on Lifehack aims to get readers refreshing ideas to end the bad thoughts and bad habits.
+We help individuals end negativity, get things done fast, and achieve their goals.Everyone only lives once, but if we make it great, once is enough.people are familiar with the proverb “As a Man thinketh, so is he”. That is no understatement.
+You are what you think and what you think becomes what you do. Yet somehow most of us leave that “what we think of ourselves” part to external factors that we have no control over i.e. other people.
+This behavior is confirmed by how many people spend so much time in editing a photo to post on Social Media just to get those likes. Every like is like a validation of something.
+How smart or beautiful we are. so what happens when your entourage is not having a good day or just not affirming what you want? Well, it’s not their job nor their place.
+There are valid reasons 1 why you need to have positive self image. Here are ways you can ensure you have positive affirmations to validate yourself every single day.</p>
+</div>
+</body>
+</html>
